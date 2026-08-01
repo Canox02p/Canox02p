@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Uriel Cano
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+perfil+%F0%9F%91%8B;Soy+Uriel+Cano;Desarrollador+Full+Stack;Enfoque+en+Frontend;Construyendo+el+Futuro+%F0%9F%9A%80)](https://github.com/Canox02p)
 
-### Desarrollador Full Stack · Enfoque en Frontend
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=94A3B8&center=true&vCenter=true&width=600&lines=role+%3D+'Ingeniero+en+formaci%C3%B3n';stack+%3D+%5B'React'%2C+'TypeScript'%2C+'Node.js'%2C+'Go'%5D;status+%3D+'Disponible+para+freelance')](https://github.com/Canox02p)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Canox02p&color=blueviolet&style=flat-square)
 
@@ -15,6 +15,7 @@
 Soy **desarrollador full stack con enfoque principal en frontend**, con experiencia construyendo sistemas reales de principio a fin: una **plataforma SaaS de punto de venta para restaurantes**, una **plataforma SaaS multi-tenant para clínicas de optometría** y una **herramienta de conexión remota de baja latencia escrita en Go**.
 
 - 📍 México · Disponible para **freelance y consultoría** — remoto, presencial o híbrido
+- 🎓 Estudiante de **Tecnologías de la Información e Innovación Digital (TIID)** en la **Universidad Politécnica de Pachuca (UPP)**
 - 🎨 Me especializo en construir **interfaces pulidas y sistemas de diseño consistentes**, respaldadas por backends sólidos (Node.js, Express, Prisma, PostgreSQL)
 - 🏛️ Arquitectura limpia (SOLID, Controller → Service → Repository), código mantenible y escalable
 - 🎯 Busco proyectos donde el código resuelva **problemas reales de negocio**
