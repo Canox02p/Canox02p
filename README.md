@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](./banner.png)
+![Banner](./Banner.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+perfil+%F0%9F%91%8B;Soy+Uriel+Cano;Desarrollador+Full+Stack;Enfoque+en+Frontend)](https://github.com/Canox02p)
 
