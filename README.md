@@ -2,6 +2,10 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:22d3ee&height=200&section=header&text=Welcome%20to%20Uriel's%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
+<img src="https://github.com/Canox02p.png" width="170" alt="Uriel Cano" />
+
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+perfil+%F0%9F%91%8B;Soy+Uriel+Cano;Desarrollador+Full+Stack;Enfoque+en+Frontend)](https://github.com/Canox02p)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=800&color=94A3B8&center=true&vCenter=true&width=600&lines=role+%3D+'Ingeniero+en+Software';stack+%3D+%5B'React'%2C+'TypeScript'%2C+'Node.js'%2C+'Go'%5D;status+%3D+'Disponible+para+freelance')](https://github.com/Canox02p)
@@ -16,10 +20,10 @@
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-LINKEDIN)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:TU-CORREO@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/52TUNUMERO)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/TU-USUARIO)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:urielcano1243@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/527721676849)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/uriel_cano)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_uriel.cano_)
 
 </div>
 
