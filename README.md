@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+perfil+%F0%9F%91%8B;Soy+Uriel+Cano;Desarrollador+Full+Stack;Enfoque+en+Frontend;Construyendo+el+Futuro+%F0%9F%9A%80)](https://github.com/Canox02p)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+perfil+%F0%9F%91%8B;Soy+Uriel+Cano;Desarrollador+Full+Stack;Enfoque+en+Frontend;0)](https://github.com/Canox02p)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=94A3B8&center=true&vCenter=true&width=600&lines=role+%3D+'Ingeniero+en+sotfware%C3%B3n';stack+%3D+%5B'React'%2C+'TypeScript'%2C+'Node.js'%2C+'Go'%5D;status+%3D+'Disponible+para+freelance')](https://github.com/Canox02p)
 
